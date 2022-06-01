@@ -2,13 +2,14 @@
   "list-context.bullet-group":{
     "component": "BulletGroup",
     "composition": "children",
-    "allowed": "*",
+    "allowed": [],
     "content": {
       "properties":{
-        "bullet":{
+        "bullets":{
           "$ref":"app:vuitg.bullets-diagramation/definitions/BulletGroup"
         }
       }
     }
   }
 }
+
