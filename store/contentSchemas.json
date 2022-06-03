@@ -8,6 +8,7 @@
           "image": {
             "$ref": "app:vtex.native-types#/definitions/url",
             "title": "Imagen",
+            "type": "string",
             "default": "",
             "widget": {
               "ui:widget": "image-uploader"
@@ -28,3 +29,4 @@
     }
   }
 }
+
