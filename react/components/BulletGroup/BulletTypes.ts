@@ -10,6 +10,7 @@ export type BulletsSchema = Array<{
   link: LinkProps
 }>
 
+
 export interface LinkProps {
   url: string
   attributeNofollow?: boolean

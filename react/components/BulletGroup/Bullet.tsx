@@ -36,6 +36,7 @@ const Bullet = ({ src, titleBullet, link }: BulletProps) => {
   )
 }
 
+
 Bullet.schema = {
   title: "Bullet",
   type: "object",
